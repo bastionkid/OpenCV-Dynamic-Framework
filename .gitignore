@@ -2,3 +2,4 @@ opencv2.xcframework
 Podfile.lock
 Example/OpenCV-Dynamic-Framework.xcworkspace
 Example/build
+.idea
